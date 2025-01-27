@@ -1,2 +1,2 @@
 this is first file of git training
-
+this is after first commit........
